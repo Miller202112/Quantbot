@@ -1,0 +1,13 @@
+{
+  "name": "quantbot-ia",
+  "version": "2.0.0",
+  "description": "QuantBot IA — Trading Automático MT5",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'static site'",
+    "start": "vercel dev"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
